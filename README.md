@@ -23,10 +23,10 @@
 
 ### 🚀 Featured Projects
 
-**🌐 [EchoTranslate](https://github.com/navadeepWorks/EchoTranslate)**
+**🌐 [EchoTranslate](https://github.com/NavadeepVandhanapu/echotranslate)**
 Real-time, bidirectional voice translation pipeline (Python, Sarvam AI, Qualcomm AI Hub models) running on Snapdragon AI PC hardware — speech-to-text → translation → speech synthesis across Hindi, Telugu, and Kannada ↔ English, with a half-duplex dual-client "call" architecture for live two-way conversation. Demoed at the Qualcomm Snapdragon Multiverse Hackathon, Bengaluru.
 
-**🗳️ [Decentralized Voting Platform](https://github.com/NavadeepVandhanapu/Votechain)**
+**🗳️ Decentralized Voting Platform**
 Fully decentralized voting system (Solidity, Ethereum, Hardhat, Node.js, Web3.js, MetaMask) applying distributed systems and fault-tolerance principles — cryptographically verified authentication and an end-to-end pipeline from backend logic to blockchain deployment.
 
 ---
@@ -38,5 +38,5 @@ Built and deployed project-based web apps with JavaScript, HTML5, CSS3 in sprint
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NavadeepVandhanapu&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
