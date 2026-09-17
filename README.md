@@ -5,7 +5,7 @@
 
 ### 🎓 About Me
 - 🎓 B.Tech Computer Science, Institute of Aeronautical Engineering — Expected 2028
-- 📊 GPA: 8.95/10.0
+- 📊 GPA: 8.96/10.0
 - 🔬 Co-author, IEEE paper *SAPLING: Smart AI Platform as Lifeline using IoT and Nurturing for Growth in Agriculture* (ICIPCN 2026)
 - 💻 Solved 150+ problems on LeetCode, 50+ on GeeksforGeeks
 - 📫 Reach me: navadeepvandanapu33@gmail.com
@@ -23,10 +23,10 @@
 
 ### 🚀 Featured Projects
 
-**🌐 [EchoTranslate](https://github.com/your-username/echotranslate)**
+**🌐 [EchoTranslate](https://github.com/navadeepWorks/EchoTranslate)**
 Real-time, bidirectional voice translation pipeline (Python, Sarvam AI, Qualcomm AI Hub models) running on Snapdragon AI PC hardware — speech-to-text → translation → speech synthesis across Hindi, Telugu, and Kannada ↔ English, with a half-duplex dual-client "call" architecture for live two-way conversation. Demoed at the Qualcomm Snapdragon Multiverse Hackathon, Bengaluru.
 
-**🗳️ Decentralized Voting Platform**
+**🗳️ [Decentralized Voting Platform](https://github.com/NavadeepVandhanapu/Votechain)**
 Fully decentralized voting system (Solidity, Ethereum, Hardhat, Node.js, Web3.js, MetaMask) applying distributed systems and fault-tolerance principles — cryptographically verified authentication and an end-to-end pipeline from backend logic to blockchain deployment.
 
 ---
