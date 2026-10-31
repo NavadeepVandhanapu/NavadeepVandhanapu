@@ -10,7 +10,6 @@
 
 - 🎓 B.Tech Computer Science, Institute of Aeronautical Engineering — Expected 2028 (GPA: 8.96/10.0)
 - 🔬 Co-author, IEEE paper *SAPLING: Smart AI Platform as Lifeline using IoT and Nurturing for Growth in Agriculture* (ICIPCN 2026)
-- 🔭 Currently working on [EchoTranslate](https://github.com/NavadeepVandhanapu/echotranslate)
 - 💻 Solved 150+ problems on LeetCode, 50+ on GeeksforGeeks
 - 📫 Reach me at **navadeepvandanapu33@gmail.com**
 
